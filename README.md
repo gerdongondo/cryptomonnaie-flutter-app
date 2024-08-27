@@ -1,16 +1,11 @@
 # cryptoapp
 
-A new Flutter project.
+Flutter : Développement d'applications mobiles multiplateformes.
+Dart : Programmation avec Dart pour créer des interfaces modernes.
+API REST : Intégration et consommation d'API REST pour obtenir des données en temps réel.
+HTTP & JSON Parsing : Gestion des requêtes HTTP et traitement des réponses JSON.
+UI/UX Design : Conception d'interfaces utilisateurs attrayantes et intuitives.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Uploading crypto-app-image-github.png…]()
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
